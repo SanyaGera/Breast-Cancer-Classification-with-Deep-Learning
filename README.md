@@ -1,0 +1,2 @@
+# Breast-Cancer-Classification-with-Deep-Learning
+This is a deep learning model used to identify whether a particular type of breast cancer is malignant or benign. It takes 30 features like area, texture, perimeter etc. in input and based on that features does the required classification. The project involves making deep neural network and training and testing the model with the help of data available from load breast cancer dataset.
